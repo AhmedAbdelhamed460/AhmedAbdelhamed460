@@ -18,7 +18,9 @@
 <a href="https://www.linkedin.com/in/ahmed-abdelhamed-/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdelhamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send?phone=01275140929" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
